@@ -1,0 +1,10 @@
+node_modules
+/log/
+/dataset/
+/model_file/
+*.pth
+*.sh
+/script/
+/.vscode/
+/vocab/
+*.DS_Store
